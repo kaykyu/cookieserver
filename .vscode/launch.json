@@ -11,6 +11,7 @@
             "mainClass": "",
             "args": "12345 fortunecookie.txt"
         },
+
         {
             "type": "java",
             "name": "Current File",
@@ -26,9 +27,9 @@
         },
         {
             "type": "java",
-            "name": "Cookie",
+            "name": "MTServer",
             "request": "launch",
-            "mainClass": "Cookie",
+            "mainClass": "MTServer",
             "projectName": "cookieserver_e124eda"
         },
         {
